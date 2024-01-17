@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate software developer w
 
 - 💼 Software Developer with experience in Python, C#, VB.NET, Ruby, Go, Bash, PowerShell, and Java.
 - 🔒 Cybersecurity enthusiast with a focus on security practices and reverse engineering.
-- 🌐 Full-stack web development skills using HTML, CSS, and JavaScript.
+- 🌐 Full-stack web development skills using HTML, CSS, PHP and JavaScript.
 
 ## 💻 Tech Stack
 
@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate software developer w
   - HTML
   - CSS
   - JavaScript
+  - PHP
 - **Security:**
   - Cybersecurity
   - Reverse Engineering
