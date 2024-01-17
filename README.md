@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate software developer with a diverse set of skills and interests. Here's a little about me:
+Welcome to my GitHub profile! I'm EZIOxTN, a passionate software developer with a diverse set of skills and interests. Here's a little about me:
 
 ## 👨‍💻 About Me
 
