@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm EZIOxTN, a passionate software developer with 
 
 Here are some projects that highlight my skills and interests:
 
-- [Project 1]([link-to-project-1](https://github.com/EZIOxtn/EasyHost)): Free temp website hosting.
+- [Project EasyHost](https://github.com/EZIOxtn/EasyHost]): Free temp website hosting.
 - [Project 2](): ...
 
 ## 📫 Get in Touch
