@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm EZIOxTN, a passionate software developer with 
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer with experience in Python, C#, VB.NET, Ruby, Go, Bash, PowerShell, and Java.
+- 💼 Software Developer with experience in Python, C#, VB.NET,c/c++, Bash, PowerShell, and Java.
 - 🔒 Cybersecurity enthusiast with a focus on security practices and reverse engineering.
-- 🌐 Full-stack web development skills using HTML, CSS, PHP and JavaScript.
+- 🌐 Full-stack web development skills using HTML, CSS, PHP and python.
 
 ## 💻 Tech Stack
 
@@ -14,19 +14,20 @@ Welcome to my GitHub profile! I'm EZIOxTN, a passionate software developer with 
   - Python
   - C#
   - VB.NET
-  - Ruby
-  - Go
   - Bash
   - PowerShell
   - Java
+  - c
+  - c++
 - **Web Development:**
   - HTML
   - CSS
-  - JavaScript
+  - Flask (python)
+  - .NET Core (asp)
   - PHP
 - **Security:**
   - Cybersecurity
-  - Reverse Engineering
+  - Reverse Engineering (API testing, Android apk, exe, algorithms)
 
 ## 🌱 Current Learning
 
@@ -42,9 +43,7 @@ Here are some projects that highlight my skills and interests:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
-- Personal Website: [YourWebsite.com](link-to-website)
+ - (soon)
 
 Feel free to explore my repositories and don't hesitate to reach out! I'm always open to collaboration and learning new things.
 
